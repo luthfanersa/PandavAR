@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3aff014e7bd5134a8d4b99b781e8442, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: YUDHISTIRA
+    characterSprite: {fileID: 21300000, guid: 902d440945c782e4ba67c75ebc162416, type: 3}
+  - characterName: BIMA
+    characterSprite: {fileID: 21300000, guid: 7fa47ebbfdc7bf645bdd98c62ee696d1, type: 3}
+  - characterName: ARJUNA
+    characterSprite: {fileID: 21300000, guid: c8c77e0ec6aae374ab097125131f0ada, type: 3}
+  - characterName: NAKULA
+    characterSprite: {fileID: 21300000, guid: 1d51a750102323947a5978b852e26101, type: 3}
+  - characterName: SADEWA
+    characterSprite: {fileID: 21300000, guid: ee4f66a4cfbd1d24b88048bd6add2ddb, type: 3}
